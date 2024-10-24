@@ -3,12 +3,12 @@
 
 
 * {
-    background-color: rgb(171, 182, 232);
+    background-color: #dce7e9;
+    color: #333;
+    font-family: 'Nunito', sans-serif;
 }
 
 h1 {
-    font-family: 'Chakra Petch', sans-serif;
-
     text-align: center;
 }
 
@@ -29,9 +29,9 @@ h1 {
     margin-right: 10px;
 }
 
-.bilgi-karti h2 {
+/* .bilgi-karti h2 {
     font-family: 'Give You Glory', cursive;
-}
+} */
 
 .bilgi-karti p {
     font-size: 12px;
